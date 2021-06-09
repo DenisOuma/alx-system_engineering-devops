@@ -1,2 +1,2 @@
-#!din/bash
+#!/din/bash
 ls
