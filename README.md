@@ -1,0 +1,1 @@
+using shell basics command 
