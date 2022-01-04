@@ -1,0 +1,10 @@
+# ssh config file
+Host *
+    PasswordAuthentication no
+    IdentityFile ~/.ssh/school
+    SendEnv LANG LC_*
+    HashKnownHosts yes
+    GSSAPIAuthentication yes
+    GSSAPIDelegateCredentials no
+    HostName 34.138.149.117
+    User ubuntu
